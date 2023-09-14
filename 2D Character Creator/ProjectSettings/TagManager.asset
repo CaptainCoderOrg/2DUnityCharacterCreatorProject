@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Heroine Base
+    uniqueID: 3738054437
+    locked: 0
+  - name: Armor
+    uniqueID: 50180665
+    locked: 0
+  - name: Weapon
+    uniqueID: 3741690059
+    locked: 0

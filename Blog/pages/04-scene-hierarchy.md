@@ -7,7 +7,9 @@ nav_order: 4
 # Part 4: Scene Hierarchy
 {: .no_toc }
 
-
+In this section, you will explore how to add multiple GameObjects to the Scene
+Hierarchy. Additionally, you will learn how to group GameObject to create a
+**child**-**parent** relationship.
 
 <details open markdown="block">
   <summary>
@@ -155,5 +157,9 @@ If all went well, you should have a scene similar to the one below:
 ![Order in Layer](../imgs/04/09-challenge-complete.png)
 
 ## What's Next?
+
+In [Part 5: Sprite Renderer]({% link pages/05-sprite-renderer.md %}) you will
+learn how to use the Sprite Renderer component to swap out sprites on an
+existing GameObject within your Scene.
 
 {% include Links.md %}
