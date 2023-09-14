@@ -104,4 +104,6 @@ When you're done, you should be able to select 7 individual weapons from the spr
 
 ## What's Next?
 
+In [Part 4: Scene Hierarchy]({% link pages/04-scene-hierarchy.md %}) you will learn how to add multiple GameObjects to your scene as well as how to group them to create a hierarchy of related GameObjects.
+
 {% include Links.md %}
