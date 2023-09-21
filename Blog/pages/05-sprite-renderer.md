@@ -184,4 +184,6 @@ If all went well, you scene and layers should look similar to the image below:
 
 ## What's Next?
 
+In [Part 6: Buttons]({% link pages/06-buttons.md %}) you will learn how to use Unity's canvas system to display buttons on the screen.
+
 {% include Links.md %}
