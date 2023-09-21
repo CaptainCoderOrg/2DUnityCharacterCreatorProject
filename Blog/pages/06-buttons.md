@@ -165,6 +165,7 @@ When you're finished, you should have a scene that looks similar to this:
 
 ## What's Next?
 
-
+In [Part 7: On Click Event]({% link pages/07-on-click-event.md %}), you will learn how to utilize Unity's event system
+to trigger changes to the character's armor when a button is clicked.
 
 {% include Links.md %}
