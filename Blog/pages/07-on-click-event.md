@@ -105,6 +105,7 @@ When you're done, your program should function similar to the one in the preview
 
 ## What's Next?
 
+In [Part 8: Vertical Layout Group]({% link pages/08-vertical-layout-group.md %}), you will learn how to utilize Unity's Layout tools to help you manage the complexity of your user interfaces.
 
 
 {% include Links.md %}
