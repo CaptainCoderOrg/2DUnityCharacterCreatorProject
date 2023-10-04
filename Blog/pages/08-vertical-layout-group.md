@@ -118,6 +118,6 @@ When you're done, your project will look and act similar to the video below:
 
 ## What's Next?
 
-
+In [Part 9: Changing Shops]({% link pages/09-changing-shops.md %}), you will learn how to enable and disable `GameObject`s in your scene to switch between your two shop menus.
 
 {% include Links.md %}
