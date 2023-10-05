@@ -128,7 +128,6 @@ When you're finished, your scene should look similar to the one below:
 
 
 ## What's Next?
-
-
+In [Part 10: Adding Text]({% link pages/10-adding-text.md %}), you will learn how to add in text labels that will eventually display information about your selected items!
 
 {% include Links.md %}
