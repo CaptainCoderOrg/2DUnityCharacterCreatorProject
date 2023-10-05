@@ -29,7 +29,7 @@ Editor to bring your game to life.
 
 ## Download the Assets
 
-1. Download the project assets: [LINK](../files/CaptainCoder-2DCharacterCreator-Assets-v1.zip)
+1. Download the project assets: [LINK](../files/CaptainCoder-2DCharacterCreator-Assets-v1.1.zip)
 2. Extract the assets
 3. Verify the Contents
    * **advanced_pixel-7.ttf** - A pixel style font
