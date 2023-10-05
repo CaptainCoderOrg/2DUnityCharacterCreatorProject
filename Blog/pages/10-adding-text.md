@@ -85,6 +85,5 @@ When you're finished, your `Hierarchy` and `Game` view should look similar to th
 
 ## What's Next?
 
-<!-- In [Part 11: Changing Text]({% link pages/11-changing-text.md %}), you will update your buttons to modify the text  -->
 
 {% include Links.md %}
